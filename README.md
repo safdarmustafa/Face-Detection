@@ -73,8 +73,8 @@ The goal of FaceSense is to provide an interactive, privacy-focused tool that en
 
 ## 📧 Contact
 
-Aditya Kumar Jha  
-Email: [your-email@example.com]  
+Safdar Mustafa  
+Email: razasaif276@gmail.com
 Jamia Hamdard – Department of Computer Science & Engineering
 
 ---
